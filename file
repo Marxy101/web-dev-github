@@ -1,0 +1,11 @@
+[33mcommit 6f5432e866a577702b8b95b3ac2448ab08a2a667[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m, [m[1;32mmain[m[33m)[m
+Author: Chris Marks <marxy@live.com.au>
+Date:   Tue Dec 17 18:31:07 2024 +1030
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 5d0bcb252675f3babe403b6319b7b90768d9108a[m
+Author: Marxy101 <127635658+Marxy101@users.noreply.github.com>
+Date:   Tue Dec 17 18:20:55 2024 +1030
+
+    added text.txt file
